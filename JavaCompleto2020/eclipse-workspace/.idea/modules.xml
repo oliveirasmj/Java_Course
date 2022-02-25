@@ -2,7 +2,41 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/eclipse-workspace.iml" filepath="$PROJECT_DIR$/.idea/eclipse-workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_02_03_IntroducaoJava/01_02_03_IntroducaoJava.iml" filepath="$PROJECT_DIR$/01_02_03_IntroducaoJava/01_02_03_IntroducaoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_EstrutSequencial/04_EstrutSequencial.iml" filepath="$PROJECT_DIR$/04_EstrutSequencial/04_EstrutSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_EstrutCondicional/05_EstrutCondicional.iml" filepath="$PROJECT_DIR$/05_EstrutCondicional/05_EstrutCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_EstrutRepetitivas/06_EstrutRepetitivas.iml" filepath="$PROJECT_DIR$/06_EstrutRepetitivas/06_EstrutRepetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_OutrosTopicos/07_OutrosTopicos.iml" filepath="$PROJECT_DIR$/07_OutrosTopicos/07_OutrosTopicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_IntroducaoPOO/08_IntroducaoPOO.iml" filepath="$PROJECT_DIR$/08_IntroducaoPOO/08_IntroducaoPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Const_This_Overl_Encamp/09_Const_This_Overl_Encamp.iml" filepath="$PROJECT_DIR$/09_Const_This_Overl_Encamp/09_Const_This_Overl_Encamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Memoria_Array_Listas/10_Memoria_Array_Listas.iml" filepath="$PROJECT_DIR$/10_Memoria_Array_Listas/10_Memoria_Array_Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Datas/11_Datas.iml" filepath="$PROJECT_DIR$/11_Datas/11_Datas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Git/12_EDP.iml" filepath="$PROJECT_DIR$/12_Git/12_EDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_EnumeracoesEComposicao/13_EnumeracoesEComposicao.iml" filepath="$PROJECT_DIR$/13_EnumeracoesEComposicao/13_EnumeracoesEComposicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_HerancaEPolimorfismo/14_HerancaEPolimorfismo.iml" filepath="$PROJECT_DIR$/14_HerancaEPolimorfismo/14_HerancaEPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Excepcoes/15_Excepcoes.iml" filepath="$PROJECT_DIR$/15_Excepcoes/15_Excepcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_ProjetoJogoXadrez/16_ProjetoJogoXadrez.iml" filepath="$PROJECT_DIR$/16_ProjetoJogoXadrez/16_ProjetoJogoXadrez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Arquivos/17_Arquivos.iml" filepath="$PROJECT_DIR$/17_Arquivos/17_Arquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Interfaces/18_Interfaces.iml" filepath="$PROJECT_DIR$/18_Interfaces/18_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_GenericsSetMaps/19_GenericsSetMaps.iml" filepath="$PROJECT_DIR$/19_GenericsSetMaps/19_GenericsSetMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_ProgramacaoFuncional_Lambda/20_ProgramacaoFuncional_Lambda.iml" filepath="$PROJECT_DIR$/20_ProgramacaoFuncional_Lambda/20_ProgramacaoFuncional_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_AcessoBaseDados_JDBC/21_AcessoBaseDados_JDBC.iml" filepath="$PROJECT_DIR$/21_AcessoBaseDados_JDBC/21_AcessoBaseDados_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/22_InterfaceGrafica_JAVAFX.iml" filepath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/22_InterfaceGrafica_JAVAFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/23_ProjetoAppDesktop_JavaFX_MySQL.iml" filepath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/23_ProjetoAppDesktop_JavaFX_MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_JPA_Hibernate/24_JPA_Hibernate.iml" filepath="$PROJECT_DIR$/24_JPA_Hibernate/24_JPA_Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_ProjetoSpring/25_ProjetoSpring.iml" filepath="$PROJECT_DIR$/25_ProjetoSpring/25_ProjetoSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26_ProjetoAPIRestful/26_ProjetoAPIRestful.iml" filepath="$PROJECT_DIR$/26_ProjetoAPIRestful/26_ProjetoAPIRestful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27_Threads/27_Threads.iml" filepath="$PROJECT_DIR$/27_Threads/27_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices/28_WebServices.iml" filepath="$PROJECT_DIR$/28_WebServices/28_WebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices_REST_Server/28_WebServices_REST_Server.iml" filepath="$PROJECT_DIR$/28_WebServices_REST_Server/28_WebServices_REST_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices_REST_Server_Ficha/28_WebServices_REST_Server_Ficha.iml" filepath="$PROJECT_DIR$/28_WebServices_REST_Server_Ficha/28_WebServices_REST_Server_Ficha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices_REST_Server_FolhaTrabalho/28_WebServices_REST_Server_FolhaTrabalho.iml" filepath="$PROJECT_DIR$/28_WebServices_REST_Server_FolhaTrabalho/28_WebServices_REST_Server_FolhaTrabalho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices_SOAP_Client/28_WebServices_SOAP_Client.iml" filepath="$PROJECT_DIR$/28_WebServices_SOAP_Client/28_WebServices_SOAP_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices_SOAP_Client_SAAJ/28_WebServices_SOAP_Client_SAAJ.iml" filepath="$PROJECT_DIR$/28_WebServices_SOAP_Client_SAAJ/28_WebServices_SOAP_Client_SAAJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_WebServices_SOAP_Server/28_WebServices_SOAP_Server.iml" filepath="$PROJECT_DIR$/28_WebServices_SOAP_Server/28_WebServices_SOAP_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo/spring-demo.iml" filepath="$PROJECT_DIR$/spring-demo/spring-demo.iml" />
     </modules>
   </component>
 </project>

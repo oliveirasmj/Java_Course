@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18b4422f-b368-4d0c-b883-4a9563c95eea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/api_metodosHTTP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/baseDados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/docker.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/git.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/ppts/CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/ppts/ES.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00_Apontamentos/testes_desenvolvimento.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introducao/01-Curso-Java-COMPLETO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Conceitos/02-conceitos-de-programacao(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_Conceitos/02-conceitos-de-programacao.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_IntroducaoJava/03-introducao-linguagem-java(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_IntroducaoJava/03-introducao-linguagem-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EstrutSequencial/04-estrutura-sequencial(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EstrutSequencial/04-estrutura-sequencial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_EstrutSequencial/exercicios/02-exercicios1-estrutura-sequencial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_EstrutCondicional/05-estrutura-condicional(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_EstrutCondicional/05-estrutura-condicional.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_EstrutCondicional/exercicios/02-exercicios2-estrutura-condicional.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EstrutRepetitivas/06-estruturas-repetitivas(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EstrutRepetitivas/06-estruturas-repetitivas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EstrutRepetitivas/debug.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EstrutRepetitivas/exercicios/02-exercicios3-estrutura-while.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_EstrutRepetitivas/exercicios/02-exercicios4-estrutura-for.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_OutrosTopicos/07-outros-topicos-basicos(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_OutrosTopicos/07-outros-topicos-basicos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_IntroducaoPOO/03-classes-atributos-membros-staticos(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_IntroducaoPOO/03-classes-atributos-membros-staticos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_IntroducaoPOO/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_IntroducaoPOO/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_IntroducaoPOO/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_IntroducaoPOO/exercicios/03-correcao-exercicios-fixacao.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/04-construtores-this-sobrecarga-encapsulamento(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/04-construtores-this-sobrecarga-encapsulamento.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_Const_This_Overl_Encamp/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/05-memoria-arrays-e-listas(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/05-memoria-arrays-e-listas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/1TiposReferenciaEPrimitivos/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/2GarbageCollector/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/2GarbageCollector/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/2GarbageCollector/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/2GarbageCollector/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/3Vetores/aula87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/3Vetores/aula88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/4Boxing/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/4Boxing/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/4Boxing/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/4Boxing/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/5Foreach/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/6Listas/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/6Listas/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/6Listas/Screenshot_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/6Listas/Screenshot_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/6Listas/Screenshot_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/6Listas/Screenshot_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/7Matrizes/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/7Matrizes/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/8Datas/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/8Datas/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_Memoria_Array_Listas/8Datas/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Datas/06-topicos-especiais(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Datas/06-topicos-especiais.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12_Git/06-bonus-git-github.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12_Git/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/07-enumeracoes-composicao(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/07-enumeracoes-composicao.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_EnumeracoesEComposicao/Screenshot_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/08-heranca-e-polimorfismo(para-anotacao).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/08-heranca-e-polimorfismo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_HerancaEPolimorfismo/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_Excepcoes/09-tratamento-de-excecoes(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_Excepcoes/09-tratamento-de-excecoes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_Excepcoes/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_Excepcoes/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_ProjetoJogoXadrez/10-projeto-sistema-xadrez.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_ProjetoJogoXadrez/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_ProjetoJogoXadrez/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_ProjetoJogoXadrez/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Arquivos/11-arquivos(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Arquivos/11-arquivos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Arquivos/exercicio/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Arquivos/exercicio/fileout.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Arquivos/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_Arquivos/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/13-interfaces(para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/13-interfaces.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/1Interfaces/Screenshot_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/2HerancaVSContrato/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/3HerancaComInterface/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/4HerancaMultipla/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/4HerancaMultipla/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/4HerancaMultipla/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/InterfaceComparable/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/exercicio/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_Interfaces/exercicio/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/13-generics-set-map(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/13-generics-set-map.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/exercicio/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/exercicio/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/exercicio/file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_GenericsSetMaps/exercicio/file4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/15-programacao-funcional-expressoes-lambda(espaco-para-anotacoes).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/15-programacao-funcional-expressoes-lambda.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/Screenshot_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/exercicio/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_ProgramacaoFuncional_Lambda/exercicio/in2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_11INNERJOIN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_12WHERE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/Screenshot_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/acesso-a-dados-com-jdbc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_AcessoBaseDados_JDBC/services.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22_InterfaceGrafica_JAVAFX/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22_InterfaceGrafica_JAVAFX/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22_InterfaceGrafica_JAVAFX/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22_InterfaceGrafica_JAVAFX/interface-grafica-javafx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23_ProjetoAppDesktop_JavaFX_MySQL/projeto-javafx-jdbc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24_JPA_Hibernate/nivelamento-sobre-jpa.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25_ProjetoSpring/Projeto-web-services-Spring-Boot-JPA.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25_ProjetoSpring/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25_ProjetoSpring/dados.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25_ProjetoSpring/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/16-mongodb-spring-boot.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/Screenshot_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/Screenshot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/Screenshot_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/Screenshot_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/Screenshot_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/notas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/ordem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_ProjetoAPIRestfull/slides-aula-nosql-mongodb.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/eclipse-workspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_02_03_IntroducaoJava/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/01_02_03_IntroducaoJava/bin/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.project" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/build.fxbuild" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/build.fxbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula260_PrimeiroProgJavaFX/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula260_PrimeiroProgJavaFX/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula260_PrimeiroProgJavaFX/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula260_PrimeiroProgJavaFX/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula261_Eventos/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula261_Eventos/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula261_Eventos/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula261_Eventos/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula261_Eventos/gui/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula261_Eventos/gui/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/gui/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/gui/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/gui/util/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula262_Alert/gui/util/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/gui/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/gui/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/gui/util/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula263_CalcularSoma/gui/util/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/util/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/util/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/util/Constraints.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula264_LimitacoesTextField/gui/util/Constraints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/util/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/util/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/util/Constraints.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/gui/util/Constraints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/model/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula265_ComboBox/model/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/aplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/aplication/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/View.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/View.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/ViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/ViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/util/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/util/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/util/Constraints.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/gui/util/Constraints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/model/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/22_InterfaceGrafica_JAVAFX/src/aula266_Containers/model/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.project" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/build.fxbuild" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/build.fxbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/db/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/db/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/db/DbException.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/db/DbException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/db/DbIntegrityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/db/DbIntegrityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/About.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/About.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/DepartmentListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/MainView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/MainView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/MainViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/MainViewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/SellerListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/listeners/DataChangeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/listeners/DataChangeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/util/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/util/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/util/Constraints.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/util/Constraints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/gui/util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/SellerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/impl/DepartmentDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/impl/DepartmentDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/entities/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/entities/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/exceptions/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/exceptions/ValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/services/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/services/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/services/SellerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/23_ProjetoAppDesktop_JavaFX_MySQL/src/model/services/SellerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_WebServices_SOAP_Client_SAAJ/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/28_WebServices_SOAP_Client_SAAJ/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_WebServices_SOAP_Client_SAAJ/target/classes/META-INF/maven/com.simplilearn/mavenproject/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/28_WebServices_SOAP_Client_SAAJ/target/classes/META-INF/maven/com.simplilearn/mavenproject/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/DeleteTaskRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/DeleteTaskRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/DeleteTaskResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/DeleteTaskResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetAllTaskRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetAllTaskRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetAllTaskResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetAllTaskResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetTaskRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetTaskRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetTaskResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/GetTaskResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/ObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/Tstatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/Tstatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/springdemo/iti/ti/aulas/tasks/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/aplicativo/Programa1_Inserir.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/aplicativo/Programa1_Inserir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/aplicativo/Programa2_Consultar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/aplicativo/Programa2_Consultar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/aplicativo/Programa3_Eliminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/aplicativo/Programa3_Eliminar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/java/dominio/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/maven/24_JPA_Hibernate/24_JPA_Hibernate/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/maven/24_JPA_Hibernate/24_JPA_Hibernate/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/maven/24_JPA_Hibernate/24_JPA_Hibernate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/maven/24_JPA_Hibernate/24_JPA_Hibernate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/24_JPA_Hibernate/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/bin/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/config/TestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/config/TestConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/enums/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/enums/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/pk/OrderItemPK.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/entities/pk/OrderItemPK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/OrderItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/OrderItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/CategoryResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/OrderResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/OrderResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/ProductResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/ProductResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/exceptions/ResourceExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/exceptions/ResourceExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/exceptions/StandardError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/resources/exceptions/StandardError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/exceptions/DatabaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/exceptions/DatabaseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/exceptions/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/java/com/example/_ProjetoSpring/services/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/test/java/com/example/_ProjetoSpring/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/25_ProjetoSpring/src/test/java/com/example/_ProjetoSpring/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/config/Instantiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/config/Instantiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/domain/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/domain/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/dto/AuthorDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/dto/AuthorDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/dto/CommentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/dto/CommentDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/PostResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/PostResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/exception/ResourceExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/exception/ResourceExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/exception/StandardError.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/resources/exception/StandardError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/services/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/services/exception/ObjectNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/java/com/example/_ProjetoSpring/services/exception/ObjectNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/test/java/com/example/_ProjetoSpring/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../workspace-spring-tool-suite-4-4.8.1.RELEASE/26_ProjetoAPIRestful/src/test/java/com/example/_ProjetoSpring/ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25ZKYDHfRbzS49v2LSn9QI1A8FW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="01_02_03_IntroducaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b4422f-b368-4d0c-b883-4a9563c95eea" name="Changes" comment="" />
+      <created>1645729237496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645729237496</updated>
+      <workItem from="1645729238668" duration="51000" />
+      <workItem from="1645747248152" duration="44000" />
+      <workItem from="1645747654372" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
