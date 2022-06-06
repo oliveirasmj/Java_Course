@@ -5,6 +5,7 @@ public class Account {
 	private Integer number;
 	private String holder;
 	protected Double balance; //protected para conseguir que classes filho possam aceder a ele
+
 	
 	public Account() {
 	}
